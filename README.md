@@ -12,6 +12,6 @@ A simple Password Generator app implemented in Python. Generate strong, random p
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/MilyMany/password-generator.git
 2. cd password-generator
 3. python password_generator.py
